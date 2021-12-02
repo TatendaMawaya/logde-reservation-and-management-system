@@ -1,0 +1,20 @@
+c:\users\waile\onedrive\documents\visual studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\bin\Debug\Nyanda Lodge Reservation System.exe.config
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\bin\Debug\Nyanda.accdb
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\bin\Debug\Nyanda Lodge Reservation System.exe
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\bin\Debug\Nyanda Lodge Reservation System.pdb
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\bin\Debug\Nyanda Lodge Reservation System.xml
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.Employee_Registar.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.Event_Reservation.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.Form1.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.Inventory_Registration.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.LoginForm1.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.Resources.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.Room_Reservation.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.Rooms.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda_Lodge_Reservation_System.SplashScreen1.resources
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda Lodge Reservation System.vbproj.GenerateResource.Cache
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda Lodge Reservation System.exe
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda Lodge Reservation System.xml
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda Lodge Reservation System.pdb
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\bin\Debug\Database1.sdf
+C:\Users\waile\OneDrive\Documents\Visual Studio 2012\Projects\Nyanda Lodge Reservation System\Nyanda Lodge Reservation System\obj\Debug\Nyanda Lodge Reservation System.vbprojResolveAssemblyReference.cache
